@@ -6,17 +6,16 @@
     "slug": "movega-removals-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 3775,
-    "timeDay": 4249,
-    "timeWeek": 3697,
-    "timeMonth": 3561,
-    "timeYear": 3775,
+    "time": 3770,
+    "timeDay": 3800,
+    "timeWeek": 3748,
+    "timeMonth": 3558,
+    "timeYear": 3770,
     "dailyMinutesDown": {
-      "2024-03-01": 8,
       "2024-02-25": 16
     }
   }
