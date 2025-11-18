@@ -7,6 +7,10 @@ sites:
     url: https://www.movega.co.uk
   - name: Movega Removals ( NAS )
     url: https://mvg.myqnapcloud.com
+  - name: OPEN Rate API
+    url: https://open.er-api.com/v6
+    - name: frankfurter.dev
+    url: https://frankfurter.dev/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
