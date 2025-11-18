@@ -7,9 +7,9 @@ sites:
     url: https://www.movega.co.uk
   - name: Movega Removals ( NAS )
     url: https://mvg.myqnapcloud.com
-  - name: OPEN Rate API
-    url: https://open.er-api.com/v6
-    - name: frankfurter.dev
+  - name: OPEN Rate API ( Sales Agents Calc Deal )
+    url: https://open.er-api.com/v6/latest/EUR
+    - name: frankfurter.dev ( Movega Transport Calc Price )
     url: https://frankfurter.dev/
 
 status-website:
