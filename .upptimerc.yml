@@ -9,8 +9,8 @@ sites:
     url: https://mvg.myqnapcloud.com
   - name: OPEN Rate API ( Sales Agents Calc Deal )     
     url: https://open.er-api.com/v6/latest/EUR     
-  - name: frankfurter dev ( Movega Transport Calc Price )     
-    url: https://frankfurter.dev/ 
+  - name: frankfurter ( Movega Transport Calc Price )     
+    url: https://frankfurter.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
