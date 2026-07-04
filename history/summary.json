@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.movega.co.uk.ico",
     "slug": "movega-removals-website",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "96.50%",
-    "uptimeMonth": "96.81%",
+    "uptime": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "97.13%",
     "uptimeYear": "99.53%",
-    "time": 3504,
-    "timeDay": 3885,
-    "timeWeek": 3630,
-    "timeMonth": 3592,
+    "time": 3503,
+    "timeDay": 3374,
+    "timeWeek": 3549,
+    "timeMonth": 3577,
     "timeYear": 3538,
     "dailyMinutesDown": {
       "2025-09-19": 24,
@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mvg.myqnapcloud.com.ico",
     "slug": "movega-removals-nas",
     "status": "down",
-    "uptime": "3.57%",
+    "uptime": "3.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-03": 46,
+      "2026-07-04": 45,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -437,8 +438,7 @@
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
-      "2025-07-05": 1440,
-      "2025-07-04": 1440
+      "2025-07-05": 1440
     }
   },
   {
@@ -452,11 +452,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 53,
-    "timeWeek": 82,
+    "time": 163,
+    "timeDay": 100,
+    "timeWeek": 78,
     "timeMonth": 90,
-    "timeYear": 164,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   },
   {
@@ -471,9 +471,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 102,
-    "timeWeek": 183,
-    "timeMonth": 153,
+    "timeDay": 148,
+    "timeWeek": 151,
+    "timeMonth": 150,
     "timeYear": 179,
     "dailyMinutesDown": {}
   }
