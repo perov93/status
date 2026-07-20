@@ -6,15 +6,15 @@
     "slug": "movega-removals-website",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "99.51%",
-    "time": 3492,
-    "timeDay": 3788,
-    "timeWeek": 3605,
-    "timeMonth": 3606,
-    "timeYear": 3555,
+    "time": 3495,
+    "timeDay": 4265,
+    "timeWeek": 3703,
+    "timeMonth": 3617,
+    "timeYear": 3558,
     "dailyMinutesDown": {
       "2025-09-19": 24,
       "2025-09-20": 46,
@@ -78,7 +78,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-19": 41,
+      "2026-07-20": 42,
+      "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -441,8 +442,7 @@
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
-      "2025-07-21": 1440,
-      "2025-07-20": 1440
+      "2025-07-21": 1440
     }
   },
   {
@@ -457,9 +457,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 172,
-    "timeWeek": 107,
-    "timeMonth": 95,
+    "timeDay": 132,
+    "timeWeek": 121,
+    "timeMonth": 96,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -475,9 +475,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 124,
-    "timeWeek": 130,
-    "timeMonth": 143,
+    "timeDay": 79,
+    "timeWeek": 111,
+    "timeMonth": 142,
     "timeYear": 176,
     "dailyMinutesDown": {}
   }
