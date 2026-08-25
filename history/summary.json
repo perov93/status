@@ -11,10 +11,10 @@
     "uptimeMonth": "99.00%",
     "uptimeYear": "99.43%",
     "time": 3532,
-    "timeDay": 3179,
-    "timeWeek": 3494,
-    "timeMonth": 3779,
-    "timeYear": 3617,
+    "timeDay": 4340,
+    "timeWeek": 3583,
+    "timeMonth": 3783,
+    "timeYear": 3621,
     "dailyMinutesDown": {
       "2025-09-19": 24,
       "2025-09-20": 46,
@@ -74,7 +74,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mvg.myqnapcloud.com.ico",
     "slug": "movega-removals-nas",
     "status": "down",
-    "uptime": "3.36%",
+    "uptime": "3.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -85,7 +85,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 16,
+      "2026-08-25": 16,
+      "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -448,8 +449,7 @@
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
-      "2025-08-26": 1440,
-      "2025-08-25": 1440
+      "2025-08-26": 1440
     }
   },
   {
@@ -464,9 +464,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 73,
+    "timeDay": 109,
     "timeWeek": 102,
-    "timeMonth": 103,
+    "timeMonth": 100,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -482,9 +482,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 189,
-    "timeWeek": 170,
-    "timeMonth": 174,
+    "timeDay": 143,
+    "timeWeek": 171,
+    "timeMonth": 169,
     "timeYear": 175,
     "dailyMinutesDown": {}
   }
