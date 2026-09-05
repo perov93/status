@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.movega.co.uk.ico",
     "slug": "movega-removals-website",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.83%",
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.42%",
     "time": 3544,
-    "timeDay": 4365,
-    "timeWeek": 3935,
-    "timeMonth": 3878,
-    "timeYear": 3651,
+    "timeDay": 3747,
+    "timeWeek": 3921,
+    "timeMonth": 3891,
+    "timeYear": 3653,
     "dailyMinutesDown": {
       "2025-09-19": 24,
       "2025-09-20": 46,
@@ -66,8 +66,7 @@
       "2026-08-02": 96,
       "2026-08-07": 17,
       "2026-08-10": 35,
-      "2026-09-02": 18,
-      "2026-09-04": 7
+      "2026-09-02": 18
     }
   },
   {
@@ -76,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mvg.myqnapcloud.com.ico",
     "slug": "movega-removals-nas",
     "status": "down",
-    "uptime": "3.32%",
+    "uptime": "3.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -87,7 +86,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-04": 167,
+      "2026-09-05": 36,
+      "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
@@ -450,8 +450,7 @@
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
-      "2025-09-06": 1440,
-      "2025-09-05": 1440
+      "2025-09-06": 1440
     }
   },
   {
@@ -465,11 +464,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 94,
-    "timeWeek": 104,
-    "timeMonth": 105,
-    "timeYear": 152,
+    "time": 151,
+    "timeDay": 112,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -484,8 +483,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 187,
-    "timeWeek": 161,
+    "timeDay": 164,
+    "timeWeek": 167,
     "timeMonth": 170,
     "timeYear": 174,
     "dailyMinutesDown": {}
