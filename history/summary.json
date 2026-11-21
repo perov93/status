@@ -4,17 +4,17 @@
     "url": "https://www.movega.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.movega.co.uk.ico",
     "slug": "movega-removals-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.29%",
     "time": 3732,
-    "timeDay": 4052,
-    "timeWeek": 3696,
-    "timeMonth": 3869,
-    "timeYear": 3863,
+    "timeDay": 4047,
+    "timeWeek": 3712,
+    "timeMonth": 3873,
+    "timeYear": 3864,
     "dailyMinutesDown": {
       "2026-03-05": 184,
       "2026-03-12": 20,
@@ -66,7 +66,7 @@
       "2026-09-02": 18,
       "2026-09-26": 787,
       "2026-09-27": 32,
-      "2026-11-21": 0
+      "2026-11-21": 2
     }
   },
   {
@@ -86,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-21": 1414,
+      "2026-11-21": 1416,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
